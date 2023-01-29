@@ -1,7 +1,7 @@
 ## Olá!! Seja bem-vindo ao meu perfil, eu sou o Kelvin.
 
 - 🪩  Atualmente estudo front-end e pretendo conhecer outras áreas.
-- 🌿 Estudando HTML, CSS e JavaScript. Estou progredindo para outras linguagens futuramente.
+- 🌿 Estou aprendendo HTML, CSS e JavaScript. E irei progredir para outras linguagens futuramente.
 - 🌻 Pronomes: ele/dele
 
 <div align="center">
