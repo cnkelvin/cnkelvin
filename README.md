@@ -9,7 +9,7 @@
 
 <p align="left">
 
-<h3>Conheça um pouco sobre mim</h3>
+<h3>👋 Conheça um pouco sobre mim</h3>
 
 <hr>
 
@@ -20,16 +20,23 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/cnkelvin">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cnkelvin&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnkelvin&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+<h3>🛠 Tech Stack</h3>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5">
+  <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3">
+  <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
+  <img align="center" alt="TypeScript" height="25" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript">
+  <img align="center" alt="NodeJS" height="25" src="https://img.shields.io/badge/NodeJS-05122A?style=flat&logo=node.js">
+</div><br>
+
+<hr>
+<h3>📋 Entre em contato comigo </h3>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Discord" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=discord">
+  <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=x">
+  <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/@cnkelvin-05122A?style=flat&logo=instagram">
+  <img align="center" alt="TypeScript" height="25" src="https://img.shields.io/badge/cnkelvin-05122A?style=flat&logo=linkedin">
 </div><br>
 
