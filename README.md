@@ -9,7 +9,7 @@
 
 <p align="left">
 
-<h3>👋 Conheça um pouco sobre mim</h3>
+<h3>👋 Um pouco sobre mim</h3>
 
 <hr>
 
@@ -31,7 +31,7 @@
 </div><br>
 
 <hr>
-<h3>📋 Entre em contato comigo </h3>
+<h3>📋 Entre em contato comigo e me conheça melhor </h3>
 
 <div align="center" valign="top"><br>
  <a href="https://discord.com/@hykertz" target="_blank"> <img align="center" alt="Discord" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=discord"></a>
@@ -39,5 +39,6 @@
  <a href="https://instagram.com/cnkelvin" target="_blank"> <img align="center" alt="Instagram" height="25" src="https://img.shields.io/badge/@cnkelvin-05122A?style=flat&logo=instagram">
  <a href="https://www.linkedin.com/in/cnkelvin/" target="_blank"> <img align="center" alt="LinkedIn" height="25" src="https://img.shields.io/badge/cnkelvin-05122A?style=flat&logo=linkedin">
  <a href="mailto:contato.kelvinnielson@gmail.com" target="_blank"> <img align="center" alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail">
+ <a href="https://open.spotify.com/user/r278hwy2icmfeguo1zfr1w2ki" target="_blank"> <img align="center" alt="Spotify" height="25" src="https://img.shields.io/badge/Spotify-05122A?style=flat&logo=spotify">
 </div><br>
 
