@@ -1,10 +1,9 @@
 <div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=F74949&width=420&height=50&lines=Bem+vindo{a}+ao+meu+perfil!;Me+chamo+Emily+Leme;Sou+Desenvolvedora+Fullstack+Java;Aproveite+os+projetos;E+me+siga+para+mais!;Obrigada+pelo+apoio+<3](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=500&color=7D13F7&width=435&lines=Hey%2C+guarde+isso+com+voc%C3%AA+%F0%9F%8C%B9;Bem+vindo(a)+ao+meu+perfil!;Eu+me+chamo+Kelvin;Sou+um+constante+aprendiz;Conhe%C3%A7a+os+meus+projetos+abaixo;E+obrigado+por+me+apoiar+%3C3" alt="Typing SVG" align="left"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=4000&pause=500&color=7D13F7&width=1000&eight=40&lines=Hey%2C+guarde+isso+com+voc%C3%AA+%F0%9F%8C%B9;Bem+vindo(a)+ao+meu+perfil!;Eu+me+chamo+Kelvin;Sou+um+constante+aprendiz;Conhe%C3%A7a+os+meus+projetos+abaixo;E+obrigado+por+me+apoiar+%3C3" alt="Typing SVG" align="left"/>
 
 </div>
-
-<br><br>
+<hr>
 
 - 🪩  Atualmente estudo front-end e pretendo conhecer outras áreas.
 - 🌿 Estou aprendendo HTML, CSS e JavaScript. E irei progredir para outras linguagens futuramente.
