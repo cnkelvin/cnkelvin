@@ -28,7 +28,7 @@
   <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
   <img align="center" alt="TypeScript" height="25" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript">
   <img align="center" alt="NodeJS" height="25" src="https://img.shields.io/badge/NodeJS-05122A?style=flat&logo=node.js">
-  <img align="center" alt="ReactJS" height="25" src="https://img.shields.io/badge/ReactJS-05122A?style=flat&logo=react">
+  <img align="center" alt="ReactJS" height="25" src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">
 </div><br>
 
 <hr>
