@@ -34,9 +34,10 @@
 <h3>📋 Entre em contato comigo </h3>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Discord" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=discord">
-  <img align="center" alt="CSS" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=x">
-  <img align="center" alt="JavaScript" height="25" src="https://img.shields.io/badge/@cnkelvin-05122A?style=flat&logo=instagram">
-  <img align="center" alt="TypeScript" height="25" src="https://img.shields.io/badge/cnkelvin-05122A?style=flat&logo=linkedin">
+ <a href="https://discord.com/@hykertz" target="_blank"> <img align="center" alt="Discord" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=discord"></a>
+ <a href="https://twitter.com/hykertz" target="_blank"> <img align="center" alt="X" height="25" src="https://img.shields.io/badge/@hykertz-05122A?style=flat&logo=x">
+ <a href="https://instagram.com/cnkelvin" target="_blank"> <img align="center" alt="Instagram" height="25" src="https://img.shields.io/badge/@cnkelvin-05122A?style=flat&logo=instagram">
+ <a href="https://www.linkedin.com/in/cnkelvin/" target="_blank"> <img align="center" alt="LinkedIn" height="25" src="https://img.shields.io/badge/cnkelvin-05122A?style=flat&logo=linkedin">
+ <a href="mailto:contato.kelvinnielson@gmail.com" target="_blank"> <img align="center" alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail">
 </div><br>
 
