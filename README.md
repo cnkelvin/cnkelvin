@@ -15,7 +15,7 @@
 
   Oii! Meu nome é Kelvin, tenho 20 anos e atualmente estou aprendendo linguagens de programação de forma independente (e futuramente com auxilio da faculdade)! Nasci em 15 de junho de 2003 e meu interesse por tecnologia começou quando eu era bem novo e adorava passar horas e horas jogando videogame ou usando o computador, e em 2016, quando vi meu irmão começar a criar seus primeiros scripts para um jogo chamado Transformice, me despertou um certo interesse em conhecer esse universo imenso. E desde então, eu não paro de aprender algo novo.
 
-  Bom, um hobbie bem destacável meu é ouvir música. Posso passar horas conversando sobre música se a pessoa <br> se interessar e o meu gosto é bem eclético. Gosto de ver <br> alguns filmes e animes, jogar alguns joguinhos e leio alguns <br> livros também. Se quiser me conhecer melhor, fique à vontade.
+  Bom, um hobbie bem destacável meu é ouvir música. Posso passar horas conversando sobre música se a pessoa se interessar e o meu gosto é bem eclético. Gosto de ver <br> alguns filmes e animes, jogar alguns joguinhos e leio alguns <br> livros também. Se quiser me conhecer melhor, fique à vontade.
 </p>
 
 <hr>
